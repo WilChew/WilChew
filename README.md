@@ -24,10 +24,22 @@ I work in the IT industry, and everything in my repositories is born out of pers
 ### 🛠️ Tech Stack & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-7aa2f7?style=for-the-badge&logo=python&logoColor=1a1b26" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash%20%2F%20Shell-9ece6a?style=for-the-badge&logo=gnubash&logoColor=1a1b26" alt="Bash" />
-  <img src="https://img.shields.io/badge/Linux-e0af68?style=for-the-badge&logo=linux&logoColor=1a1b26" alt="Linux" />
+  <img src="https://img.shields.io/badge/JavaScript-e0af68?style=for-the-badge&logo=javascript&logoColor=1a1b26" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-7dcfff?style=for-the-badge&logo=typescript&logoColor=1a1b26" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-ff9e64?style=for-the-badge&logo=html5&logoColor=1a1b26" alt="HTML & CSS" />
+  <img src="https://img.shields.io/badge/C%23%20%2F%20.NET-bb9af7?style=for-the-badge" alt="C# & .NET" />
+  <img src="https://img.shields.io/badge/Java-f7768e?style=for-the-badge&logo=openjdk&logoColor=1a1b26" alt="Java" />
+  <img src="https://img.shields.io/badge/PowerShell-7aa2f7?style=for-the-badge" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/SQL-2ac3de?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/AI-9ece6a?style=for-the-badge" alt="AI" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-f7768e?style=for-the-badge" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Docker-2ac3de?style=for-the-badge&logo=docker&logoColor=1a1b26" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-f7768e?style=for-the-badge&logo=git&logoColor=1a1b26" alt="Git" />
+  <img src="https://img.shields.io/badge/Git-ff9e64?style=for-the-badge&logo=git&logoColor=1a1b26" alt="Git" />
+  <img src="https://img.shields.io/badge/Node.js-9ece6a?style=for-the-badge&logo=nodedotjs&logoColor=1a1b26" alt="Node.js" />
+  <img src="https://img.shields.io/badge/VS%20Code-7aa2f7?style=for-the-badge" alt="VS Code" />
 </p>
 
 ---
