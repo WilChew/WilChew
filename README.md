@@ -30,12 +30,12 @@ I work in the IT industry, and everything in my repositories is born out of pers
   <img src="https://img.shields.io/badge/C%23%20%2F%20.NET-bb9af7?style=for-the-badge" alt="C# & .NET" />
   <img src="https://img.shields.io/badge/Java-f7768e?style=for-the-badge&logo=openjdk&logoColor=1a1b26" alt="Java" />
   <img src="https://img.shields.io/badge/PowerShell-7aa2f7?style=for-the-badge" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/SQL-2ac3de?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/AI-9ece6a?style=for-the-badge" alt="AI" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/SQL-2ac3de?style=for-the-badge" alt="SQL" />
   <img src="https://img.shields.io/badge/SQL%20Server-f7768e?style=for-the-badge" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/AI-9ece6a?style=for-the-badge" alt="AI" />
   <img src="https://img.shields.io/badge/Docker-2ac3de?style=for-the-badge&logo=docker&logoColor=1a1b26" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-ff9e64?style=for-the-badge&logo=git&logoColor=1a1b26" alt="Git" />
   <img src="https://img.shields.io/badge/Node.js-9ece6a?style=for-the-badge&logo=nodedotjs&logoColor=1a1b26" alt="Node.js" />
@@ -46,7 +46,8 @@ I work in the IT industry, and everything in my repositories is born out of pers
 
 ### 📊 GitHub Activity & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilChew&show_icons=true&theme=tokyonight&hide_border=true" alt="WilChew's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WilChew&show_icons=true&theme=tokyonight&hide_border=true" alt="WilChew's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilChew&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
