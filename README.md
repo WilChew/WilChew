@@ -4,6 +4,12 @@
   <p><i>"Scratching my own itch, and open-sourcing the remedies."</i></p>
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WilChew&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Automation%20%26%20Tools-bb9af7?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Open%20Source-Welcome-9ece6a?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -15,9 +21,24 @@ I work in the IT industry, and everything in my repositories is born out of pers
 
 ---
 
-### 📊 GitHub Activity
+### 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-7aa2f7?style=for-the-badge&logo=python&logoColor=1a1b26" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash%20%2F%20Shell-9ece6a?style=for-the-badge&logo=gnubash&logoColor=1a1b26" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-e0af68?style=for-the-badge&logo=linux&logoColor=1a1b26" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2ac3de?style=for-the-badge&logo=docker&logoColor=1a1b26" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-f7768e?style=for-the-badge&logo=git&logoColor=1a1b26" alt="Git" />
+</p>
+
+---
+
+### 📊 GitHub Activity & Trophies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WilChew&show_icons=true&theme=tokyonight&hide_border=true" alt="WilChew's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WilChew&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="WilChew's Trophies" />
 </p>
 
 ---
