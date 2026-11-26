@@ -46,7 +46,7 @@ I work in the IT industry, and everything in my repositories is born out of pers
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wil Chew&show_icons=true&theme=tokyonight&hide_border=true" alt="WilChew's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WilChew&show_icons=true&theme=tokyonight&hide_border=true" alt="WilChew's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilChew&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
