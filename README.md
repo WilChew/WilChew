@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm WilChew 👋</h1>
+  <h1>Hi, I'm Wil Chew 👋</h1>
   <p><b>IT Professional by Day · Pragmatic Tinkerer by Night</b></p>
   <p><i>"Scratching my own itch, and open-sourcing the remedies."</i></p>
 </div>
